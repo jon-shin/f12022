@@ -1,0 +1,15 @@
+div.current{
+    position: absolute;
+    top:160px;
+}
+div.driverChamp{
+    position: absolute;
+    left: 400px;
+    top: 160px;
+}
+
+div.cChamp{
+    position: absolute;
+    left: 800px;
+    top: 160px;
+}
